@@ -1,3 +1,3 @@
 # discrete-optimisation
 
-Repo for assignments/exercises for Discrete Optimisation course 2021
+Repo for assignments/exercises for Discrete Optimisation course 2021 - Chloë Smith
